@@ -5,8 +5,8 @@
   "keywords": ["nginx", "mega fileindex", "mega", "mega.nz", "megaindex", "mega.nz-index", "mega-dl", "mega.nz-downloader", "mega-backdoor", "megaindex-backdoor", "rclone", "index"],
   "env": {
      "UserName": {
-      "description": "Please enter Your MEGA.NZ Username/Email",
-      "value": "Enter username/email here"
+      "description": "Please enter Your MEGA.NZ Username/Email.",
+      "value": "example@mail.com"
     },
      "Heroku_Email_Id": {
       "description": "Enter Your Currently using Heroku Email. Its optional only if you need auto quota bypass. Your information is secure between you and Heroku.",
@@ -25,8 +25,8 @@
       "value": "false"
     },
      "PassWord": {
-      "description": "Please enter your MEGA.NZ Password",
-      "value": "Enter your password here"
+      "description": "Please enter your MEGA.NZ Password.",
+      "value": "enter-your-mega-password"
     }
 
 

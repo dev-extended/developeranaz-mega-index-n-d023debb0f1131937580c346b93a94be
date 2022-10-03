@@ -21,7 +21,7 @@
       "value": "optional"
     },
      "Auto_Quota_Bypass": {
-      "description": "`true/false` |Use true or false values. Fill in your Optional Config Variables if true.",
+      "description": "`true/false` |Use true or false values. Fill your Optional Config Variables if true.",
       "value": "false"
     },
      "PassWord": {

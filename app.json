@@ -21,7 +21,7 @@
       "value": "optional"
     },
      "Auto_Quota_Bypass": {
-      "description": "Please enter Your appname same as above. Don't use your app link, Use Heroku's App name",
+      "description": "Use true or false values. Fill in your Optional Config Variables if true.",
       "value": "false"
     },
      "PassWord": {

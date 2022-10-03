@@ -8,6 +8,22 @@
       "description": "Please enter Your MEGA.NZ Username/Email",
       "value": "Enter username/email here"
     },
+     "Heroku_Email_Id": {
+      "description": "Please enter Your Current Heroku Email. Its optional only for auto quota bypass. Your data is safe, i will never touch it",
+      "value": "optional"
+    },
+     "Heroku_Password": {
+      "description": "Please enter Your Current Heroku Password. Its optional only for auto quota bypass. Your data is safe i will never touch it",
+      "value": "optional"
+    },
+     "APPNAME": {
+      "description": "Please enter Your appname same as above. Don't use your app link, Use Heroku's App name",
+      "value": "optional"
+    },
+     "Auto_Quota_Bypass": {
+      "description": "Use true or false values. Fill in your Optional Config Variables if true.",
+      "value": "false"
+    },
      "PassWord": {
       "description": "Please enter your MEGA.NZ Password",
       "value": "Enter your password here"
